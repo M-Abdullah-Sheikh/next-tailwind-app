@@ -1,4 +1,4 @@
-# NextApp With Chakra UI
+# NextApp With Tailwind CSS
 
 Welcome to NextApp Hello World with Tailwind CSS .
 
